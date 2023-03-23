@@ -21,11 +21,11 @@
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
-	--accent-opacity: 0;
+	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
-	--sidebar-color: rgba(0,0,0,0.0);
-	--main-content-color: rgba(0,0,0,0.0); /*	-	*/
+	--sidebar-color: rgba(0,0,0,0.6);
+	--main-content-color: rgba(0,0,0,0.3); /*	-	*/
 
 	--message-color: rgba(0,0,0,0.4);
 	--message-radius: 8px;
@@ -35,7 +35,7 @@
 	--reply-hue: 226;
 	--reply-saturation: 77.4%;
 	--reply-lightness: 61.8%;
-	--reply-opacity: 0; /*	-	*/
+	--reply-opacity: 1; /*	-	*/
 
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
