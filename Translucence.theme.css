@@ -13,7 +13,7 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
+	--app-bg: url(https://i.pinimg.com/originals/32/70/4e/32704eede656e098dc83a816722fa5f8.jpg);
 	--app-blur: 6px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
@@ -21,7 +21,7 @@
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
-	--accent-opacity: 1;
+	--accent-opacity: 0;
 	--accent-text-color: #000; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.4);
